@@ -1,0 +1,6 @@
+*.class
+*.txt
+*.jar
+BUILD
+Makefile
+
